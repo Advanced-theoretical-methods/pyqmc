@@ -128,9 +128,9 @@ dmypy.json
 *.swp
 .DS_Store
 /pyqmc/save
-examples/lda-be-cation/dt-0.005/config.yaml
-examples/lda-be-cation/dt-0.005/job.sh
-examples/lda-be-cation/dt-0.005/run.py
-examples/lda-be-cation/dt-0.005/wfs
-examples/lda-be-cation/wfs/config.json
-examples/lda-be-cation/wfs/run_atom.py
+examples/boson/lda-be-cation/dt-0.005/config.yaml
+examples/boson/lda-be-cation/dt-0.005/job.sh
+examples/boson/lda-be-cation/dt-0.005/run.py
+examples/boson/lda-be-cation/dt-0.005/wfs
+examples/boson/lda-be-cation/wfs/config.json
+examples/boson/lda-be-cation/wfs/run_atom.py
